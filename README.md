@@ -62,3 +62,5 @@ python test_flask.py
 ```
 
 # 📜 Licencia
+
+Este proyecto está bajo la licencia [MIT](LICENSE). Consulta el archivo **LICENSE** para más detalles.
