@@ -10,7 +10,7 @@ Endpoints funcionales: Configuración de rutas mediante Flask para interactuar c
 Facilidad de uso: Ideal para integrarse con cualquier aplicación de análisis de datos.
 
 # 📂 Estructura del proyecto
-
+```
 uForeSight-Back/
 ├── __pycache__/          # Caché de Python
 ├── ml_env/               # Entorno de machine learning (configuración)
@@ -20,7 +20,7 @@ uForeSight-Back/
 ├── requirements.txt      # Dependencias necesarias
 ├── test_flask.py         # Pruebas del servidor Flask
 ├── utils.py              # Funciones auxiliares
-
+```
 # 🛠️ Tecnologías utilizadas
 
 - Python: Lenguaje principal para el desarrollo del back-end.
@@ -33,7 +33,7 @@ uForeSight-Back/
 
 ## Clona este repositorio:
 ```
-git clone https://github.com/TuUsuario/uForeSight-Back.git
+git clone https://github.com/Jera39/uForeSight-Back.git
 cd uForeSight-Back
 ```
 ## Crea y activa un entorno virtual:
