@@ -2,12 +2,14 @@
 
 Este repositorio contiene el back-end de uForeSight, un software de análisis y predicción de datos basado en machine learning. Esta parte se encarga de procesar los datos y realizar las predicciones usando un modelo de regresión lineal.
 
+
 # 🚀 Características principales
 
 Procesamiento de datos: Limpia y prepara los datasets para su análisis.
 Modelo predictivo: Utiliza un modelo de regresión lineal para realizar predicciones basadas en las características seleccionadas.
 Endpoints funcionales: Configuración de rutas mediante Flask para interactuar con el front-end.
 Facilidad de uso: Ideal para integrarse con cualquier aplicación de análisis de datos.
+
 
 # 📂 Estructura del proyecto
 ```
@@ -21,6 +23,7 @@ uForeSight-Back/
 ├── test_flask.py         # Pruebas del servidor Flask
 ├── utils.py              # Funciones auxiliares
 ```
+
 # 🛠️ Tecnologías utilizadas
 
 - Python: Lenguaje principal para el desarrollo del back-end.
@@ -28,6 +31,7 @@ uForeSight-Back/
 - Scikit-learn: Para implementar el modelo de regresión lineal.
 - Pandas: Manejo y análisis de datos.
 - NumPy: Cálculos matemáticos eficientes.
+
 
 # ⚙️ Instalación y configuración
 
@@ -49,10 +53,12 @@ pip install -r requirements.txt
 ```
 python endpoints.py
 ```
+
 # 🧪 Pruebas
 
 ## Para verificar que el servidor y los endpoints funcionan correctamente, ejecuta:
 ```
 python test_flask.py
 ```
+
 # 📜 Licencia
