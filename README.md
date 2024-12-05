@@ -32,27 +32,27 @@ uForeSight-Back/
 # ⚙️ Instalación y configuración
 
 ## Clona este repositorio:
-
+```
 git clone https://github.com/TuUsuario/uForeSight-Back.git
 cd uForeSight-Back
-
+```
 ## Crea y activa un entorno virtual:
-
+```
 python -m venv ml_env
 source ml_env/bin/activate  # En Windows: ml_env\Scripts\activate
-
+```
 ## Instala las dependencias:
-
+```
 pip install -r requirements.txt
-
+```
 ## Inicia el servidor Flask:
-
+```
 python endpoints.py
-
+```
 # 🧪 Pruebas
 
 ## Para verificar que el servidor y los endpoints funcionan correctamente, ejecuta:
-
+```
 python test_flask.py
-
+```
 # 📜 Licencia
